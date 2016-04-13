@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum17niebuoft_0551.png"; bbox 0 0 1884 3262; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 184 906 1634 998">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 184 906 1634 998">
+     <span class='ocr_line' id='line_1_1' title="bbox 184 906 1634 998; baseline -0.017 2"><span class='ocrx_word' id='word_1_1' title='bbox 184 924 731 998; x_wconf 90' lang='lat' dir='ltr'>PETRI</span> <span class='ocrx_word' id='word_1_2' title='bbox 847 906 1634 988; x_wconf 86' lang='lat' dir='ltr'>POSSINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 590 1089 1227 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 590 1089 1227 1144">
+     <span class='ocr_line' id='line_1_2' title="bbox 590 1089 1227 1144; baseline -0.022 1"><span class='ocrx_word' id='word_1_3' title='bbox 590 1101 628 1143; x_wconf 89' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 661 1093 1042 1144; x_wconf 84' lang='lat' dir='ltr'>SOCIETATE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1074 1089 1227 1135; x_wconf 89' lang='lat' dir='ltr'>IESU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 167 1224 1586 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 167 1224 1586 1426">
+     <span class='ocr_line' id='line_1_3' title="bbox 461 1224 1364 1299; baseline -0.02 1"><span class='ocrx_word' id='word_1_6' title='bbox 461 1224 1364 1299; x_wconf 84' lang='lat' dir='ltr'><strong>OBSERVATIONUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 167 1337 1586 1426; baseline -0.018 2"><span class='ocrx_word' id='word_1_7' title='bbox 167 1337 1586 1426; x_wconf 38' lang='lat' dir='ltr'><strong>&#39;PACHYMERIANARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 566 1507 1268 1556">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 566 1507 1268 1556">
+     <span class='ocr_line' id='line_1_5' title="bbox 566 1507 1268 1556; baseline -0.021 1"><span class='ocrx_word' id='word_1_8' title='bbox 566 1520 638 1556; x_wconf 76' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 682 1511 1015 1555; x_wconf 83' lang='lat' dir='ltr'>HISTORIAM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1060 1507 1268 1546; x_wconf 82' lang='lat' dir='ltr'>RERUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 413 1628 1425 1853">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 413 1628 1425 1853">
+     <span class='ocr_line' id='line_1_6' title="bbox 413 1628 1425 1700; baseline -0.025 2"><span class='ocrx_word' id='word_1_11' title='bbox 413 1642 849 1700; x_wconf 82' lang='lat' dir='ltr'>MICHAELIS</span> <span class='ocrx_word' id='word_1_12' title='bbox 917 1628 1425 1688; x_wconf 79' lang='lat' dir='ltr'><strong>PALAEOLOGI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 641 1781 1214 1853; baseline -0.026 -1"><span class='ocrx_word' id='word_1_13' title='bbox 641 1787 884 1853; x_wconf 85' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_14' title='bbox 940 1781 1184 1842; x_wconf 87' lang='lat' dir='ltr'>TRES.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1212 1789 1214 1791; x_wconf 70' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
